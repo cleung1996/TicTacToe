@@ -26,3 +26,8 @@ h1 {
 h2 {
   text-align: center;
 }
+
+.playAgain {
+  display: flex;
+  justify-content: center;
+}
